@@ -1,5 +1,5 @@
 # Demo PyQt 5
-The purpose of the application is to show a graphics for an EDA Analysis, as well as the results of two machine learning algorithms base on the happiness datasets. The research question used to create this project is *“Can economic indicators like GDP, GINI, and governance performance indicators predict the status of happiness reported by the Canadian Institute of Advanced Research".*
+The purpose of the application is to show graphics for an EDA Analysis, as well as the results of two machine learning algorithms base on the happiness datasets. The research question used to create this project is *“Can economic indicators like GDP, GINI, and governance performance indicators predict the status of happiness reported by the Canadian Institute of Advanced Research".*
 
 The structure of the dataset is as follows:
 
