@@ -8,7 +8,7 @@ The structure of the dataset is as follows:
 
 **Dependant Variables(Features) -- y**
 * GDP 
-* GINI ( Economic indicator for 
+* GINI ( Economic indicator for income inequality )
 * VoiceandAccountability
 * PoliticalStabilityNoViolence
 * GovermentEffectiveness
